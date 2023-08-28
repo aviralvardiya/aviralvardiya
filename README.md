@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @aviralvardiya
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning front end web dev with react. I am also learning new properties in CSS each day to make my projects user friendly and look more attractive.
-- 📫 You can reach me on my email aviralvardiya10@gmail.com
+-👋 Hi there, I'm @aviralvardiya!
+
+-🌐 I'm on the path to becoming a full-stack web developer, with a keen interest in building practical web applications. My skills shine in developing responsive front-end solutions using React and ensuring smooth state management through Redux.
+
+-🛠️ Currently, I'm honing my skills in backend development, focusing on the ME_N (MongoDB, Express, Node.js) stack. This journey empowers me to create the foundation for modern web applications.
+
+-📬 If you'd like to get in touch or discuss potential collaborations, you can reach me at aviralvardiya10@gmail.com. I'm always open to connecting with fellow developers and sharing insights.
 
 <!---
 aviralvardiya/aviralvardiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
